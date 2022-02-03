@@ -26,6 +26,13 @@ Open Source Script - No Copyright - Team Work - Simple Python Project - Created 
 	<img src="https://github.com/CodeX-ID/Temp-mail/blob/main/Screenshot_20220203-144851.png" width="600px">
 </p>
 
+------------------------------------------------------------------------
+### CodeX-ID
+- `Bilal`  <br>   ✓ ` https://github.com/Bilal-XD `  <br>
+- `Abdullah`  <br>  ✓ ` http://github.com/AbdullahDada420 `  <br>
+
+------------------------------------------------------------------------
+
 
 #### WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
