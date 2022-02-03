@@ -30,7 +30,8 @@ Open Source Script - No Copyright - Team Work - Simple Python Project - Created 
 ### CodeX-ID
 - `Bilal`  <br>   ✓ ` https://github.com/Bilal-XD `  <br>
 - `Abdullah`  <br>  ✓ ` http://github.com/AbdullahDada420 `  <br>
-
+- `Rishu`  <br>  ✓ ` https://github.com/Alon3-Rishu `  <br>
+- `Hamid`  <br>  ✓ ` https://github.com/Hamii-king-06 `  <br>
 ------------------------------------------------------------------------
 
 
