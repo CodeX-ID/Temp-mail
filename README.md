@@ -17,6 +17,13 @@ Open Source Script - No Copyright - Team Work - Simple Python Project - Created 
  - ```python3 run.py``` <br>
 
 
+# Released Versions:
+    - Version 1.0.0 
+    - Version 1.1.0 
+    - Version 2.0.0 
+
+
+
 #### WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
