@@ -6,7 +6,9 @@ Open Source Script - No Copyright - Team Work - Simple Python Project - Created 
 <h2> Termux Install </h2>
 
 ```pkg update && pkg upgrade``` <br>
-pkg install python
-pkg install git
-
-
+```pkg install python -y``` <br>
+```pkg install python2 -y``` <br>
+```pkg install git``` <br>
+```git clone https://github.com/CodeX-ID/Temp-mail``` <br>
+```cd Temp-Mail``` <br>
+```python3 run.py``` <br>
