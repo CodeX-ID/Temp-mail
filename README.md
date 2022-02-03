@@ -5,11 +5,14 @@ Open Source Script - No Copyright - Team Work - Simple Python Project - Created 
 <br>
 <h2> Termux Install </h2>
 
+
  - ```pkg update && pkg upgrade``` <br>
  - ```pkg install python -y``` <br>
  - ```pkg install python2 -y``` <br>
  - ```pkg install git``` <br>
  - ```git clone https://github.com/CodeX-ID/Temp-mail``` <br>
+ - ```pip install requests``` <br>
+ - ```pip install mechanize``` <br>
  - ```cd Temp-Mail``` <br>
  - ```python3 run.py``` <br>
 
