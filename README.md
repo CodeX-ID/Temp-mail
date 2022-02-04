@@ -1,7 +1,7 @@
 <img src="https://github.com/CodeX-ID/Temp-mail/blob/main/FB_IMG_16438157518732124.jpg" width="120" height="120" align="left">
 <center>
 <h1> Team CodeX-ID </h1>
-Open Source Script - No Copyright - Team Work - Simple Python Project - Created By : All Team - CopyPast Can Not Make You Real Programmer  
+𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚂𝚌𝚛𝚒𝚙𝚝 - 𝙽𝚘 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 - 𝚃𝚎𝚊𝚖 𝚆𝚘𝚛𝚔 - 𝚂𝚒𝚖𝚙𝚕𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 - 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 : 𝙰𝚕𝚕 𝚃𝚎𝚊𝚖 - 𝙲𝚘𝚙𝚢𝙿𝚊𝚜𝚝 𝙲𝚊𝚗 𝙽𝚘𝚝 𝙼𝚊𝚔𝚎 𝚈𝚘𝚞 𝚁𝚎𝚊𝚕 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛  
 <br>
 <h2> Termux Install </h2>
 
