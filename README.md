@@ -28,7 +28,7 @@
 
 ------------------------------------------------------------------------
 ### CodeX-ID
-- `Bilal`  <br>   ✓ ` https://github.com/Bilal-XD `  <br>
+- `Bilal`  <br>   ✓ `bash https://github.com/Bilal-XD `  <br>
 - `Abdullah`  <br>  ✓ ` http://github.com/AbdullahDada420 `  <br>
 - `Yayan`  <br>  ✓ ` https://github.com/Yayan-XD `  <br>
 - `Rishu`  <br>  ✓ ` https://github.com/Alon3-Rishu `  <br>
