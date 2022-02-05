@@ -17,6 +17,11 @@
  - ```python3 run.py``` <br>
 
 
+
+```bash
+pip install foobar
+```
+
 ## Released Versions:
     - Version 1.0.0 
     - Version 1.1.0 
