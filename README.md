@@ -30,7 +30,9 @@
 ### CodeX-ID
 - `Bilal`  <br>   ✓ ` https://github.com/Bilal-XD `  <br>
 - `Abdullah`  <br>  ✓ ` http://github.com/AbdullahDada420 `  <br>
+- `Yayan`  <br>  ✓ ` https://github.com/Yayan-XD `  <br>
 - `Rishu`  <br>  ✓ ` https://github.com/Alon3-Rishu `  <br>
+- `Shawaiz`  <br>  ✓ ` https://github.com/syedzada1100 `  <br>
 - `Hamid`  <br>  ✓ ` https://github.com/Hamii-king-06 `  <br>
 ------------------------------------------------------------------------
 
